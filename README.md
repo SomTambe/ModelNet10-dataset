@@ -26,7 +26,7 @@ Output -
 ```python
 <class 'numpy.ndarray'> (3992, 1, 64, 64, 64)
 ```
-Let's check is it works -
+Let's check if it works -
 ```python
 import matplotlib.pyplot as plt
 fig = plt.figure()
