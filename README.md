@@ -4,10 +4,14 @@ Compressed really aesthetic handling of the humongous ModelNet10 3D Vision datas
 This contains the numpy array file of the huge ModelNet10 dataset.
 
 Original dataset size ~ 2.2 Gigabytes
+
 Numpy file size ~ 8 Gigabytes
+
 Compressed file size ~ 32 Megabytes
 
 This can all be seen due to the very bad handling of binvox files, and on the top of that numpy arrays.
+
+Please star this repo if you find this useful :grin:
 
 ## Usage example -
 
@@ -31,4 +35,5 @@ ax.voxels(arr[78][0],facecolors='red')
 plt.show()
 ```
 Output -
+
 ![image](/assets/chair.png)
