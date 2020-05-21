@@ -37,3 +37,8 @@ plt.show()
 Output -
 
 ![image](/assets/chair.png)
+
+## Scripts to generate from source
+
+If you have raw OFF files, what you can do is go to the scripts folder, and look at the scripts I used to get to the final file format.
+I know they seem a joke, but I did not have the time to revitalize them, so make the changes accordingly :grin: .
